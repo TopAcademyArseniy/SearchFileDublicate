@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\winpx\\source\\repos\\FileExplorer\\FileExplorer.csproj": {}
+    "C:\\Users\\winpx\\source\\repos\\SearchFileDublicate\\FileExplorer\\FileExplorer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\winpx\\source\\repos\\FileExplorer\\FileExplorer.csproj": {
+    "C:\\Users\\winpx\\source\\repos\\SearchFileDublicate\\FileExplorer\\FileExplorer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\winpx\\source\\repos\\FileExplorer\\FileExplorer.csproj",
+        "projectUniqueName": "C:\\Users\\winpx\\source\\repos\\SearchFileDublicate\\FileExplorer\\FileExplorer.csproj",
         "projectName": "FileExplorer",
-        "projectPath": "C:\\Users\\winpx\\source\\repos\\FileExplorer\\FileExplorer.csproj",
+        "projectPath": "C:\\Users\\winpx\\source\\repos\\SearchFileDublicate\\FileExplorer\\FileExplorer.csproj",
         "packagesPath": "C:\\Users\\winpx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\winpx\\source\\repos\\FileExplorer\\obj\\",
+        "outputPath": "C:\\Users\\winpx\\source\\repos\\SearchFileDublicate\\FileExplorer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

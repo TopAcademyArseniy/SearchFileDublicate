@@ -34,7 +34,7 @@ namespace FileExplorer
 
         public override string ToString()
         {
-            return $"Filename:\t{Name}\nCreation time:\t{CreationTime}\nFile size:\t{Size} bytes\n";
+            return $"Filename:\t{Name}, Creation time:\t{CreationTime}, File size:\t{Size} bytes ";
         }
     }
 }
